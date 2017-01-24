@@ -1,0 +1,7 @@
+.idea/
+*.iml
+bin/
+pkg/
+src/github.com/
+email-server
+src-linux-amd64
